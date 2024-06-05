@@ -17,5 +17,5 @@
 <div> 
   <a href="https://instagram.com/fernandomorgadob" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "fernandombfalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/fernando-morgado-brito-ferreira-alves-45b8b32ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="[www.linkedin.com/in/fernando-morgado-brito-ferreira-alves-45b8b32ab](https://www.linkedin.com/in/fernando-morgado-brito-ferreira-alves-45b8b32ab/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
